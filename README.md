@@ -1,2 +1,3 @@
 GitCommitsTest
 ==============
+Commit 1
